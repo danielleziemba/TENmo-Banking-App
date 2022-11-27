@@ -1,0 +1,19 @@
+2022-11-25T12:13:14.0510077 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T12:18:20.0193526 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T12:19:20.5321152 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T12:28:39.3076687 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T12:29:09.178804 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T12:33:01.2282191 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T12:34:53.8800699 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T12:35:28.6109093 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T12:36:44.196503 400 : "{"message":"Error: Username is already taken"}"
+2022-11-25T12:37:28.8163809 400 : "{"message":"Error: Username is already taken"}"
+2022-11-25T13:10:39.6445809 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T13:11:06.4379808 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T13:11:28.4033304 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T13:12:51.892091 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T13:13:30.5636628 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T13:14:22.7223403 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T13:19:38.9985816 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T13:20:48.5319977 I/O error on POST request for "http://localhost:8080/auth/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-11-25T13:21:25.1601426 400 : [{"message":"Error: Username is already taken"}]
